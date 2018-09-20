@@ -1,0 +1,22 @@
+.dashboard-view {
+  padding: 35px 20px;
+}
+
+.dashboard-view .main {
+  flex-grow: 1;
+  margin: 0 10px;
+}
+
+.dashboard-view .main .header .search-input{
+  flex-grow: 1;
+  margin: 5px;
+}
+
+.action-buttons-container > * {
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.action-buttons-container > *:hover {
+  background-color: lightblue;
+}

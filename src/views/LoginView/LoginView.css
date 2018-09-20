@@ -1,0 +1,11 @@
+.login-view > .input-container > * {
+  margin: 5px;
+}
+
+.login-button {
+  width: 100%;
+  height: 30px;
+  border-radius: 30px;
+  padding: 7px;
+  background-image: linear-gradient(rgba(202, 202, 202, 0.363), #adadad);
+}

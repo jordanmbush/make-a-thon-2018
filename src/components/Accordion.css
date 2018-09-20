@@ -1,0 +1,13 @@
+.accordion {
+  margin-top: 10px;
+}
+
+.section-content {
+  display: none;
+  border: 1px solid black;
+  background-color: beige;
+}
+
+.section-content.expanded {
+  display: flex;
+}
